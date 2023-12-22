@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="cd1">Cloud logo</string>
+    <string name="search_hint">Enter Location</string>
+    <string name="city">Delhi</string>
+    <string name="today">Today</string>
+</resources>
